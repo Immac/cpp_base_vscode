@@ -4,6 +4,6 @@
 int main(int argc, char const *argv[])
 {
     Example example;
-    /* code */
+    std::cout << example.example << std::endl;
     return 0;
 }

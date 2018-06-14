@@ -4,7 +4,7 @@
 class Example
 {
     public:
-    int example;
+    int example = 100;
 };
 
 #endif // EXAMPLE_CLASS_HPP
